@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundPlayer", "SoundPlayer\SoundPlayer.csproj", "{893D8E28-5DD8-45E3-915E-8798DBA6009B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893D8E28-5DD8-45E3-915E-8798DBA6009B}.Debug|x86.ActiveCfg = Debug|x86
+		{893D8E28-5DD8-45E3-915E-8798DBA6009B}.Debug|x86.Build.0 = Debug|x86
+		{893D8E28-5DD8-45E3-915E-8798DBA6009B}.Release|x86.ActiveCfg = Release|x86
+		{893D8E28-5DD8-45E3-915E-8798DBA6009B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
